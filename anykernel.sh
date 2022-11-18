@@ -4,7 +4,10 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Classified by Rajan
+kernel.string=classified
+kernel.compiler=AOSP Clang
+kernel.made=Rajan
+message.word=Thank you for installing classified kernel
 do.devicecheck=1
 do.modules=0
 do.systemless=1
